@@ -1,22 +1,28 @@
-# A guide for making awesome jQuery plugin
+# jQuery插件开发指南
+** [原文链接](https://github.com/peterkokot/awesome-jquery) **
 
-**Best practices for modern jQuery plugin development**
-
-Currently there isn't any cannonical way to develop a jQuery plugin so when developing a jQuery plugin, some **best practices** should be followed besides the [official documentation](http://learn.jquery.com/plugins/).
-
-* [1. Protect the $ alias and add scope](#tip-1)
-* [2. Use package manager(s)](#tip-2)
-* [3. Plugin should be actively maintained](#tip-3)
-* [4. Provide default settings](#tip-4)
-* [5. Documentation](#tip-5)
-* [6. Testing](#tip-6)
-* [7. Enable chaining](#tip-7)
-* [8. Easy Usage](#tip-8)
+**开发jQuery插件的最佳实践**
 
 
-## 1. Protect the `$` alias and add scope<a name="tip-1"></a>
+在开发jQuery插件的过程之中，并没有所谓的权威指南。
+以下是一些来自 [官方文档](http://learn.jquery.com/plugins/) 的**最佳实践**。
 
-Use a closure and never create plugin dependant on `$` that is referencing jQuery. Application might depend on some other libraries or frameworks also and it may have grabbed `$` before jQuery was loaded.
+* [1. 稳固：保护作用域内的 $ 免受污染](#tip-1)
+* [2. 发布：使用包管理器](#tip-2)
+* [3. 维护：维护你的插件，并坚持下去](#tip-3)
+* [4. 设置：提供默认的设置](#tip-4)
+* [5. 文档](#tip-5)
+* [6. 测试](#tip-6)
+* [7. 协作：和其他插件协同工作](#tip-7)
+* [8. 态度：不高冷](#tip-8)
+
+
+## 1. 稳固：保护作用域内的 $ 免受污染<a name="tip-1"></a>
+
+由于其他库或者框架也可能使用了 $ 做为他们的别名(*译者注：比如zepto,prototype*)，
+所以插件的外部应该使用一个闭包函数包裹起来，
+并把jQuery做为参数传入，
+以保证作用域中的 $ 是属于jQuery的。
 
 ```javascript
 (function($) {
@@ -24,18 +30,20 @@ Use a closure and never create plugin dependant on `$` that is referencing jQuer
 })(jQuery);
 ```
 
-## 2. Use package manager(s)<a name="tip-2"></a>
+## 2. 发布：使用包管理器<a name="tip-2"></a>
 
-JavaScript has a **lot** of package managers (npm, Bower, component, spm, jam, jspm, Ender, volo, Duo). Since all of them are actually used by users you should support some packagers as well. Very good pick is `npm` since jQuery itself is recommending and also `Bower` because it is very widely and simple to use.
-
-
-## 3. Plugin should be actively maintained<a name="tip-3"></a>
-
-Creating and publishing open source plugin is big contribution to jQuery community and a lot of work for sure. However making project open source we'll sooner or later encounter some feature that we can't live without or some nasty bug. Therefore maintaining the plugin such as
-accepting pull request on GitHub, fixing bugs, support newer versions of jQuery core etc is definitely a big plus for the project.
+JavaScript拥有 **一大票** 的 包管理器 (npm, Bower, component, spm, jam, jspm, Ender, volo, Duo)。
+鉴于目前前端er都在使用包管理器，所以还是有必要让你的jQuery插件提供对包管理器支持。
+这里建议使用`npm`，因为连jQuery也托付给了它。
+第二推荐的是`Bower`，因为它用户群体大,而且使用方便(*译者注：Bower已经停止维护了*)。
 
 
-## 4. Provide default settings<a name="tip-5"></a>
+## 3. 维护：维护你的插件，并坚持下去<a name="tip-3"></a>
+将呕心沥血的开发jQuery插件贡献给开源的jQuery社区，是一件光荣的事情。
+然后开源会让插件中一些bug提前暴露出来，
+因此持之以恒的接受来自GitHub的PR，或是修复bug，或是针对最新版本jQuery添加支持，都是必要的。
+
+## 4. 设置：提供默认的设置<a name="tip-5"></a>
 
 Plugins in most cases have some configuration. If user don't set these plugin should have set default values for easier and faster plugin implementation.
 
