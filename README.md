@@ -1,4 +1,4 @@
-# Awesome jQuery
+# jQuery封神榜
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 [![Join the chat at https://gitter.im/peterkokot/awesome-jquery](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/peterkokot/awesome-jquery?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
@@ -6,153 +6,155 @@
 [![Project Maintained](https://img.shields.io/badge/project-maintained-brightgreen.svg?style=plastic "Project Maintained")](https://github.com/peterkokot/awesome-jquery/commits/master)
 [![Build Status](https://img.shields.io/travis/peterkokot/awesome-jquery/master.svg)](https://travis-ci.org/peterkokot/awesome-jquery)
 
-A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and other shiny things. Inspired by the `awesome-*` trend on GitHub.
+受到GitHub上`awesome-*`系列的鼓舞，有了这样一个关于[jQuery](http://jquery.com/)插件，资源和其他一些bling bling的玩意儿的策划案。
 
-> [jQuery](http://jquery.com/) is a fast, small, and feature-rich [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) library. It makes things like HTML document traversal and manipulation, event handling, animation, and Ajax much simpler with an easy-to-use API that works across a multitude of browsers. With a combination of versatility and extensibility, jQuery has changed the way that millions of people write JavaScript.
+> [jQuery](http://jquery.com/) 是一个超快，超小，超强悍的 [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) 库。它使得诸如DOM操作, 事件处理, 动画, Ajax之类的操作变得简单和易用，提供了跨浏览器且兼具通用性和扩展性的API。jQuery已经改变了数以百万计开发者编写JavaScript的方式。
 
 
-## Table of contents
+## 目录
 
 <img width="400" src="https://raw.githubusercontent.com/peterkokot/awesome-jquery/master/awesome-jquery.png" alt="awesome-jquery" align=right>
-* [Resources](#resources)
-    * [Tutorials](#tutorials)
-    * [Books](#books)
-        * [Free Books](#free-books)
-        * [Paid Books](#paid-books)
-    * [Blogs](#blogs)
-    * [Miscellaneous Resources](#miscellaneous-resources)
-* [Plugins](#plugins)
-    * [Animation](#animation)
-    * [Editors](#editors)
-    * [Forms](#forms)
-    * [Images, Maps and Charts](#images-maps-and-charts)
-    * [Menus](#menus)
-    * [Modals and Popups](#modals-and-popups)
-    * [Tables](#tables)
-    * [Time and Date](#time-and-date)
-    * [Translations](#translations)
-    * [Validation](#validation)
-    * [Miscellaneous Plugins](#miscellaneous-plugins)
-* [Mobile](#mobile)
+* [资源](#resources)
+    * [教程](#tutorials)
+    * [书籍](#books)
+        * [免费书籍](#free-books)
+        * [收费书籍](#paid-books)
+    * [博客](#blogs)
+    * [其他资源](#miscellaneous-resources)
+* [插件](#plugins)
+    * [动画](#animation)
+    * [富文本编辑器](#editors)
+    * [表单](#forms)
+    * [图表](#images-maps-and-charts)
+    * [菜单](#menus)
+    * [弹窗](#modals-and-popups)
+    * [表格](#tables)
+    * [时间和日期](#time-and-date)
+    * [翻译](#translations)
+    * [验证](#validation)
+    * [其他插件](#miscellaneous-plugins)
+* [移动端](#mobile)
 * [UI](#ui)
-* [Testing](#testing)
-* [Server-side Integrations](#server-side-integrations)
-* [Community](#community)
-* [Looking for more lists like this?](#looking-for-more-lists-like-this)
-* [Contributing and License](#contributing-and-license)
+* [测试](#testing)
+* [服务端相关](#server-side-integrations)
+* [社区](#community)
+* [姊妹篇](#looking-for-more-lists-like-this)
+* [贡献和许可](#contributing-and-license)
 
 
-## Resources
+## 资源
 
-*Awesome learning material to get to know jQuery and JavaScript or learn something more advanced. Some friendly advice: Before diving deep into jQuery learn JavaScript well.*
+*下面是一些很棒的学习和提升jQuery和JavaScript的资料。
+友情提示：无jQuery和JavaScript基础者容易走火入魔*
 
-* [API documentation](http://api.jquery.com/) - Official jQuery documentation.
-* [Code School](https://www.codeschool.com/courses/try-jquery) - Learn the basic building blocks of jQuery 2.0 and enjoy new video tutorials for beginners with related programming challenges.
-* [Codecademy jQuery track](https://www.codecademy.com/learn/jquery) - Beginners track for learning jQuery.
-* [Learning jQuery](http://www.learningjquery.com/) - Tips, techniques, and tutorials for the jQuery JavaScript library.
-* [Style guides](https://contribute.jquery.org/style-guide/) - jQuery's code style guides when contributing to jQuery projects.
-* [Tuts+](http://code.tutsplus.com/categories/jquery) - Useful and indepth articles about jQuery.
-
-
-### Tutorials
-
-*Awesome free tutorials and courses to learn jQuery.*
-
-* [jQuery patterns](https://github.com/jquery-boilerplate/jquery-patterns) - A variety of jQuery plugin patterns for jump starting your plugin development.
-* [Learn jQuery](http://learn.jquery.com/) - jQuery learning center.
-* [Snoopcode](http://www.snoopcode.com/jquery/) - jQuery tutorials.
-* [Try jQuery](http://try.jquery.com/) - Learn basic building blocks of jQuery.
-* [Extending jQuery](http://james.padolsey.com/javascript/extending-jquerys-selector-capabilities/) - Extending jQuery’s selector capabilities.
-
-[Back to top](#awesome-jquery)
+* [API documentation](http://api.jquery.com/) - jQuery官方文档.
+* [Code School](https://www.codeschool.com/courses/try-jquery) - 学习jQuery 2.0的基本用法，新的视频教程，和有挑战的初心者编程课程.
+* [Codecademy jQuery track](https://www.codecademy.com/learn/jquery) - jQuery初心者追踪.
+* [Learning jQuery](http://www.learningjquery.com/) - 使用jQuery的小技巧.
+* [Style guides](https://contribute.jquery.org/style-guide/) - jQuery代码风格指南.
+* [Tuts+](http://code.tutsplus.com/categories/jquery) -关于jQuery的深度好文.
 
 
-### Books
+### 教程
 
-*Recommended and not too much outdated jQuery books.*
+*jQuery的免费课程*
 
-#### Free Books
+* [jQuery patterns](https://github.com/jquery-boilerplate/jquery-patterns) - 开发jQuery插件的十八般兵器.
+* [Learn jQuery](http://learn.jquery.com/) - jQuery学习中心.
+* [Snoopcode](http://www.snoopcode.com/jquery/) - jQuery教程.
+* [Try jQuery](http://try.jquery.com/) - jQuery新手起航.
+* [Extending jQuery](http://james.padolsey.com/javascript/extending-jquerys-selector-capabilities/) - 扩展jQuery.
 
-* [JavaScript plus a dash of JQuery](http://nicholasjohnson.com/javascript-book/) - A Sensible Introduction to Coding with JavaScript and jQuery, *by Nicholas Johnson*.
-* [jQuery Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/jquery) (PDF, .mobi) *(Registration required)*.
-* [jQuery fundamentals](https://github.com/bocoup/jqfundamentals.com) - Comfortable working through common problems you'll be called upon to solve using jQuery.
-
-
-#### Paid Books
-
-* [jQuery in Action, Third Edition](https://www.manning.com/books/jquery-in-action-third-edition) - Fast-paced and complete guide to jQuery, *by Bear Bibeault, Yehuda Katz, and Aurelio De Rosa*.
-* [jQuery: Novice to Ninja: New Kicks And Tricks](http://www.sitepoint.com/store/jquery-novice-to-ninja-new-kicks-and-tricks/) - fast track to mastering jQuery, *by Earle Castledine & Craig Sharkie*.
-* [Learning jQuery - Fourth Edition](https://www.packtpub.com/web-development/learning-jquery-fourth-edition) - Guide to jQuery, *by Jonathan Chaffer and Karl Swedberg*.
-
-[Back to top](#awesome-jquery)
+[返回顶部](#awesome-jquery)
 
 
-### Blogs
+### 书籍
 
-*Interesting jQuery related blogs and websites.*
+*值得推荐的jQuery书籍实在是太多了*
 
-* [jQuery Blog](http://blog.jquery.com/) - News from the official jQuery website.
-* [jQuery UI Blog](http://blog.jqueryui.com/) - Official jQuery UI blog.
-* [Sitepoint](http://www.sitepoint.com/javascript/jquery/) - Sitepoint's jQuery category section with useful articles.
-* [Smashing Magazine](https://www.smashingmagazine.com/tag/jquery/) - jQuery tag, useful jQuery articles and tutorial alike blog posts.
+#### 免费书
 
-[Back to top](#awesome-jquery)
+* [JavaScript plus a dash of JQuery](http://nicholasjohnson.com/javascript-book/) - 一本清晰的jQuery代码编写入门书, *作者 Nicholas Johnson*.
+* [jQuery Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/jquery) (PDF, .mobi) *(需要注册账号)*.
+* [jQuery fundamentals](https://github.com/bocoup/jqfundamentals.com) - jQuery优雅之道.
+* [10 Free jQuery E-Books](http://codecondo.com/10-free-jquery-e-books/?utm_source=tuicool&utm_medium=referral) - 10本免费jQuery电子书(译者私货).
 
 
-### Miscellaneous Resources
+#### 收费书籍
+
+* [jQuery in Action, Third Edition 中文名：《jQuery实战 第三版》](https://www.manning.com/books/jquery-in-action-third-edition) - 百科全书式的jQuery指南, *作者 Bear Bibeault, Yehuda Katz, and Aurelio De Rosa*.
+* [jQuery: Novice to Ninja: New Kicks And Tricks 中文名：《JQUERY从菜鸟到忍者》](http://www.sitepoint.com/store/jquery-novice-to-ninja-new-kicks-and-tricks/) - 快速成为jQuery老司机 , *作者 Earle Castledine & Craig Sharkie*.
+* [Learning jQuery - Fourth Edition 中文名：《jQuery基础教程（第4版）》](https://www.packtpub.com/web-development/learning-jquery-fourth-edition) - jQuery上道指南, *作者 Jonathan Chaffer and Karl Swedberg*.
+
+[返回顶部](#awesome-jquery)
+
+
+### 博客
+
+*应垂斯挺的jQuery博客和网站*
+
+* [jQuery Blog](http://blog.jquery.com/) - jQuery官方新闻发布网站.
+* [jQuery UI Blog](http://blog.jqueryui.com/) - jQuery UI官方博客.
+* [Sitepoint](http://www.sitepoint.com/javascript/jquery/) - 来自出版社的关于jQuery的文章.
+* [Smashing Magazine](https://www.smashingmagazine.com/tag/jquery/) - 关于jQuery的文章和教程.
+
+[返回顶部](#awesome-jquery)
+
+
+### 其他资源
 
 *Various types of resources.*
 
-* [jQueryConfig](http://www.jqueryconfig.com/) - Optimize the size of jQuery.
-* [jQuery Foundation](https://jquery.org/) - Providing jQuery and many other projects home and support.
-* [jQuery Source Viewer](http://james.padolsey.com/jquery/) - Browser of jQuery method implementations.
-* [TodoMVC](https://github.com/tastejs/todomvc) - Helps you select JavaScript framework. Same Todo application created in multiple popular JavaScript MV* frameworks including [jQuery](http://todomvc.com/examples/jquery/).
+* [jQueryConfig](http://www.jqueryconfig.com/) - 优化jQuery的大小.
+* [jQuery Foundation](https://jquery.org/) - 对jQuery和其他一些项目提供支持.
+* [jQuery Source Viewer](http://james.padolsey.com/jquery/) - jQuery源代码查看工具.
+* [TodoMVC](https://github.com/tastejs/todomvc) - 帮助你选择JavaScript框架。相同的Todo应用程序中创建多个流行的JavaScript MV *框架包括 [jQuery](http://todomvc.com/examples/jquery/).
 
-[Back to top](#awesome-jquery)
+[返回顶部](#awesome-jquery)
 
 
-## Plugins
+## 插件
 
-*Awesome plugins from all across the jQuery universe.*
+*全宇宙的jquery插件都在此间*
 
 * [Plugins](https://www.npmjs.com/browse/keyword/jquery-plugin) - Registry of jQuery plugins, [previous one](http://plugins.jquery.com/) is now in read-only mode.
-* [jQuery Rain](http://www.jqueryrain.com/) - Top & Best jQuery plugins, tutorials, cool effects, examples, demos.
-* [jQuery Unheap](http://www.unheap.com/) - A tidy repository of jQuery plugins.
+* [jQuery Rain](http://www.jqueryrain.com/) - 最佳jQuery插件,教程、特效、示例,演示.
+* [jQuery Unheap](http://www.unheap.com/) - 一个整洁的jQuery插件库.
 
-[Back to top](#awesome-jquery)
+[返回顶部](#awesome-jquery)
 
 
-## Animation
+## 动画
 
-*Animations, transitions.*
+*动画和转场过渡*
 
-* [Animsition](https://github.com/blivesta/animsition/) - A simple and easy jQuery plugin for CSS animated page transitions.
-* [fakeLoader.js](https://github.com/joaopereirawd/fakeLoader.js) - Lightweight plugin that helps you create an animated spinner with a fullscreen loading mask to simulate the page preloading effect.
-* [jQuery Transit](https://github.com/rstacruz/jquery.transit) - Super-smooth CSS3 transformations and transitions for jQuery.
+* [Animsition](https://github.com/blivesta/animsition/) - 一个简单易用的CSS动画转场jQuery库
+* [fakeLoader.js](https://github.com/joaopereirawd/fakeLoader.js) - 轻量级插件，可以创建一个全屏遮罩层上的菊花图来模拟预加载效果
+* [jQuery Transit](https://github.com/rstacruz/jquery.transit) - 利用CSS3的transform和transition实现超顺滑jQuery动画.
 * [Material Design Preloader!s](https://github.com/aarondo/Material-Preloader) - Recreation of the Material Design preloader.
-* [Midnight](https://github.com/Aerolab/midnight.js) - Switches fixed headers on the fly.
-* [Scrollify](https://github.com/lukehaas/Scrollify/) - Assists scrolling and snaps to sections. Touch optimised.
-* [Waves](https://github.com/fians/Waves) - Click effect inspired by Google's Material Design.
+* [Midnight](https://github.com/Aerolab/midnight.js) - 头部滚动固定.
+* [Scrollify](https://github.com/lukehaas/Scrollify/) - 滚动插件（针对移动端已优化）.
+* [Waves](https://github.com/fians/Waves) - Material Design的点击水波效果 .
 
-[Back to top](#awesome-jquery)
-
-
-### Editors
-
-*WYSIWYG editors.*
-
-* [Froala WYSIWYG HTML Editor](https://github.com/froala/wysiwyg-editor) - jQuery WYSIWYG Rich Text Editor based on HTML5.
-* [Hallo](https://github.com/bergie/hallo) - Simple rich text editor (contentEditable) for jQuery UI.
-* [jQuery Notebook](https://github.com/raphaelcruzeiro/jquery-notebook) - A modern, simple and elegant WYSIWYG rich text editor.
-* [jQuery TE](http://jqueryte.com/) - Lightweight HTML editor.
-* [TinyMCE](https://www.tinymce.com/) - Popular WYSIWYG editor with jQuery build and a jQuery integration plugin.
-
-[Back to top](#awesome-jquery)
+[返回顶部](#awesome-jquery)
 
 
-### Forms
+### 富文本编辑器
 
-*Plugins for Forms, AJAX, validation.*
+*所见即所得的富文本编辑器.*
+
+* [Froala WYSIWYG HTML Editor](https://github.com/froala/wysiwyg-editor) - 基于HTML5和jQuery的富文本编辑器.
+* [Hallo](https://github.com/bergie/hallo) - 为jQuery UI提供的简单编辑器.
+* [jQuery Notebook](https://github.com/raphaelcruzeiro/jquery-notebook) - 现代，轻巧，优雅的富文本编辑器.
+* [jQuery TE](http://jqueryte.com/) - 轻量级的HTML编辑器.
+* [TinyMCE](https://www.tinymce.com/) - 受欢迎的WYSIWYG编辑器.
+
+[返回顶部](#awesome-jquery)
+
+
+### 表单
+
+*关于表单、AJAX和验证的插件*
 
 * [Bootstrap Multiselect](https://github.com/davidstutz/bootstrap-multiselect) - Multiselect for Bootstrap.
 * [File Upload](https://github.com/blueimp/jQuery-File-Upload) - File Upload widget with multiple file selection, drag&drop support, progress bar, validation and preview images, audio and video.
