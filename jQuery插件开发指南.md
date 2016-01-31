@@ -1,5 +1,5 @@
 # jQuery插件开发指南
-** [原文链接](https://github.com/peterkokot/awesome-jquery) **
+** [原文链接](https://github.com/peterkokot/awesome-jquery/blob/master/CONTRIBUTING.md) **
 
 **开发jQuery插件的最佳实践**
 
