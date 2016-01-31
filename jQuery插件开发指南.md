@@ -14,7 +14,7 @@
 * [5. 文档](#tip-5)
 * [6. 测试](#tip-6)
 * [7. 协作：和其他插件协同工作](#tip-7)
-* [8. 态度：不高冷](#tip-8)
+* [8. 易用](#tip-8)
 
 
 ## 1. 稳固：保护作用域内的 $ 免受污染<a name="tip-1"></a>
@@ -65,7 +65,7 @@ var defaultSettings = {
 是为了更好的区分开readme文件和doc文件，
 有利于人们更好的读懂你的文件和代码
 
-## 6. Testing<a name="tip-7"></a>
+## 6. 测试<a name="tip-7"></a>
 
 在多个浏览器中测试你的插件
 
@@ -84,7 +84,7 @@ return this;
 $("div#myid").yourPlugin().anotherPlugin().yetAnotherPlugin();
 ```
 
-## 8. Easy Usage
+## 8. 易用
 
 在不阅读文档、进行配置或者改动插件代码的情形下，插件也应该是能立即使用的。
 
