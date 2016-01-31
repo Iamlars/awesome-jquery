@@ -1,5 +1,4 @@
 # jQuery封神榜
-
 [原文链接](https://github.com/peterkokot/awesome-jquery/blob/master/README.md)
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
@@ -105,12 +104,12 @@
 
 ### 其他资源
 
-*Various types of resources.*
+*海量资源*
 
 * [jQueryConfig](http://www.jqueryconfig.com/) - 优化jQuery的大小.
 * [jQuery Foundation](https://jquery.org/) - 对jQuery和其他一些项目提供支持.
 * [jQuery Source Viewer](http://james.padolsey.com/jquery/) - jQuery源代码查看工具.
-* [TodoMVC](https://github.com/tastejs/todomvc) - 帮助你选择JavaScript框架。相同的Todo应用程序中创建多个流行的JavaScript MV *框架包括 [jQuery](http://todomvc.com/examples/jquery/).
+* [TodoMVC](https://github.com/tastejs/todomvc) -包括[jQuery](http://todomvc.com/examples/jquery/)在内的多个流行的JavaScript MV *框架构建的TodoMVC程序， 帮助你选择JavaScript框架
 
 [返回顶部](#awesome-jquery)
 
@@ -158,43 +157,44 @@
 
 *关于表单、AJAX和验证的插件*
 
-* [Bootstrap Multiselect](https://github.com/davidstutz/bootstrap-multiselect) - Multiselect for Bootstrap.
-* [File Upload](https://github.com/blueimp/jQuery-File-Upload) - File Upload widget with multiple file selection, drag&drop support, progress bar, validation and preview images, audio and video.
-* [Ideal Forms](https://github.com/elclanrs/jq-idealforms) - Framework for building and validating responsive HTML5 forms.
-* [jQuery Form Plugin](https://github.com/malsup/form/) - Easy and unobtrusive HTML forms upgrade to use AJAX.
-* [Justified Gallery](https://github.com/miromannino/Justified-Gallery) - Allows you to create a gallery with a justified grid.
-* [Labelauty](https://github.com/fntneves/jquery-labelauty) - A lightweight and beautiful plugin for radio and checkbox inputs.
-* [Payform](https://github.com/jondavidjohn/payform) - A library (with jQuery plugin) for building credit card forms, validating inputs, and formatting numbers.
-* [Pickadate](https://github.com/amsul/pickadate.js) - The mobile-friendly, responsive, and lightweight date & time input picker.
-* [Select2](https://github.com/select2/select2) - Select box with support for searching, tagging, remote data sets, infinite scrolling.
-
-[Back to top](#awesome-jquery)
+* [Bootstrap Multiselect](https://github.com/davidstutz/bootstrap-multiselect) - 提供给Bootstrap的多选框.
+* [File Upload](https://github.com/blueimp/jQuery-File-Upload) - 支持多选、拖放、进度条、验证、图片预览及视频、音频的文件上传组件。
+* [Ideal Forms](https://github.com/elclanrs/jq-idealforms) - 创建和验证响应式的HTML5表单框架.
+* [jQuery Form Plugin](https://github.com/malsup/form/) - 简单的让AJAX提交HTML表单.
+* [Justified Gallery](https://github.com/miromannino/Justified-Gallery) - 你可以创建一个基于网格的相册.
+* [Labelauty](https://github.com/fntneves/jquery-labelauty) - 轻量级的美化单选和复选框插件.
+* [Payform](https://github.com/jondavidjohn/payform) - 验证和格式化信用卡号码的表单插件.
+* [Pickadate](https://github.com/amsul/pickadate.js) - 响应式、移动端友好的时间和日期选择器.
+* [Select2](https://github.com/select2/select2) - 具有搜索、异步加载、无限滚动、添加标记功能的选择框
 
 
-### Images, Maps and Charts
-
-*Plugins related to images, image manipulation, galleries, maps and charts.*
-
-* [Arbor](https://github.com/samizdatco/arbor) - Graph visualization library using web workers and jQuery.
-* [Cropper](https://github.com/fengyuanchen/cropper) - A simple image cropping plugin.
-* [Dense.js](https://github.com/gocom/dense) - Serving retina-ready, high pixel ratio images with ease.
-* [Flot](https://github.com/flot/flot) - Attractive charts.
-* [Gridder](https://github.com/oriongunning/gridder) - Displays a thumbnail grid expanding preview similar to the effect seen on Google Images.
-* [jquery.sparkline](https://github.com/gwatts/jquery.sparkline) - Generate small sparkline charts.
-* [jQuery.eraser](https://github.com/boblemarin/jQuery.eraser) - Erasing image with mouse or touch movements.
-* [jQuery Mapael](https://github.com/neveldo/jQuery-Mapael) - Plugin based on raphael.js that allows you to display dynamic vector maps.
-* [jQueryGantt](https://github.com/robicch/jQueryGantt) - Gantt editor.
-* [Nivo Slider](https://github.com/gilbitron/Nivo-Slider) - Beautiful and easy to use image slider.
-* [Peity](https://github.com/benpickles/peity) - Progressive <svg> pie, donut, bar and line charts.
-* [Unite Gallery](https://github.com/vvvmax/unitegallery/) - Responsive jQuery image and video gallery plugin.
-* [Viewer](https://github.com/fengyuanchen/viewer) - A simple jQuery image viewing plugin.
-
-[Back to top](#awesome-jquery)
+[返回顶部](#awesome-jquery)
 
 
-### Menus
+### 图表
 
-*Menus animation, usability enhancements and beautification.*
+*图片, 图形处理, 相册, 地图和图表相关的插件*
+
+* [Arbor](https://github.com/samizdatco/arbor) - 基于web workers和jQuery的图形可视化库.
+* [Cropper](https://github.com/fengyuanchen/cropper) - 一个精巧的图片裁剪插件.
+* [Dense.js](https://github.com/gocom/dense) - 让retina及高分图片处理变得简单.
+* [Flot](https://github.com/flot/flot) - 有魅力的图表.
+* [Gridder](https://github.com/oriongunning/gridder) - 展示网格状缩略图的相册查看器，类似谷歌图片.
+* [jquery.sparkline](https://github.com/gwatts/jquery.sparkline) - 生成精巧的图表.
+* [jQuery.eraser](https://github.com/boblemarin/jQuery.eraser) - 支持PC和移动端的橡皮擦效果.
+* [jQuery Mapael](https://github.com/neveldo/jQuery-Mapael) - 基于raphael.js的动态矢量图插件.
+* [jQueryGantt](https://github.com/robicch/jQueryGantt) - 甘特图(Gantt)编辑器.
+* [Nivo Slider](https://github.com/gilbitron/Nivo-Slider) - 小而美的图片轮播插件.
+* [Peity](https://github.com/benpickles/peity) -基于svg的先进的饼图、环型图、条形图、折线图图表
+* [Unite Gallery](https://github.com/vvvmax/unitegallery/) - 响应式的图片和视屏相册jQuery插件.
+* [Viewer](https://github.com/fengyuanchen/viewer) - 一个简单的jQuery图片查看插件.
+
+[返回顶部](#awesome-jquery)
+
+
+### 菜单
+
+*美化和增强型的菜单，菜单动画*
 
 * [jQuery contextMenu](https://github.com/swisnl/jQuery-contextMenu) - Management facility for context menus.
 * [jPanelMenu](https://github.com/acolangelo/jPanelMenu) - Creates a paneled-style menu (like the type seen in the mobile versions of Facebook, Google and native iPhone applications).
@@ -206,12 +206,12 @@
 * [Superfish](https://github.com/joeldbirch/superfish) - Adds usability enhancements to existing multi-level drop-down menus.
 * [Yamm](https://github.com/geedmo/yamm3) - Yet another megamenu for Bootstrap 3.
 
-[Back to top](#awesome-jquery)
+[返回顶部](#awesome-jquery)
 
 
-### Modals and Popups
+### 弹窗
 
-*Plugins for modals (dialog box/popups), tooltips, and similar popup windows.*
+*modals,tooltips,popup*
 
 * [animatedModal.js](https://github.com/joaopereirawd/animatedModal.js) - Plugin for creating fullscreen modals with CSS3 transitions. You can use the transitions from `animate.css` or create your own.
 * [Avgrund](https://github.com/voronianski/jquery.avgrund.js) - Plugin for your modal boxes and popups with new concept of showing depth between popup and page.
@@ -224,10 +224,10 @@
 * [tipso](https://github.com/object505/tipso) - A Lightweight Responsive jQuery Tooltip Plugin.
 * [vex](https://github.com/hubspot/vex) - A modern dialog library which is highly configurable and easy to style.
 
-[Back to top](#awesome-jquery)
+[返回顶部](#awesome-jquery)
 
 
-### Tables
+### 表格
 
 *Grid plugins and plugins for creating and showcasing data in form of tables.*
 
@@ -243,17 +243,17 @@
 * [Stupid Table Sort](https://github.com/joequery/Stupid-Table-Plugin) - A stupidly small and simple jQuery table sorter plugin.
 * [tableExport.jquery.plugin](https://github.com/hhurz/tableExport.jquery.plugin) - Export HTML table to JSON, XML, CSV, TXT, SQL, Word, Excel, PNG or PDF.
 
-[Back to top](#awesome-jquery)
+[返回顶部](#awesome-jquery)
 
 
-### Time and Date
+### 时间和日期
 
 *Plugins for handling, manipulating or formating time and date.*
 
 * [jQuery Timer Plugin](https://github.com/walmik/timer.jquery) - Start/Stop/Resume/Remove pretty timer inside any HTML element.
 * [Timeago](https://github.com/rmm5t/jquery-timeago) - Easy support of automatic updating fuzzy timestamps (e.g. "4 minutes ago").
 
-[Back to top](#awesome-jquery)
+[返回顶部](#awesome-jquery)
 
 
 ### Translations
@@ -264,10 +264,10 @@
 * [jquery.i18n](https://github.com/wikimedia/jquery.i18n) - jQuery based Javascript internationalization library for easy internationalization of web application
 * [jquery.localize.js](https://github.com/coderifous/jquery-localize) - Easy internationalization of your static web site
 
-[Back to top](#awesome-jquery)
+[返回顶部](#awesome-jquery)
 
 
-### Validation
+### 验证
 
 *Validation plugins.*
 
@@ -277,10 +277,10 @@
 * [jquery-validation](https://github.com/jzaefferer/jquery-validation/) - Drop-in validation for your existing forms, while making all kinds of customizations to fit your application really easy.
 * [jQuery.validationEngine](https://github.com/posabsolute/jQuery-Validation-Engine) - Validation of form fields in the browser.
 
-[Back to top](#awesome-jquery)
+[返回顶部](#awesome-jquery)
 
 
-### Miscellaneous Plugins
+### 其他插件
 
 *Plugins that couldn't be sorted in above categories yet.*
 
@@ -290,10 +290,10 @@
 * [Slugify](https://github.com/pmcelhaney/jQuery-Slugify-Plugin) - Creates a URL slug as you type a page title (like Django slugify()).
 * [Readmore.js](https://github.com/jedfoster/Readmore.js) - A lightweight jQuery plugin for collapsing and expanding long blocks of text with "Read more" and "Close" links.
 
-[Back to top](#awesome-jquery)
+[返回顶部](#awesome-jquery)
 
 
-## Mobile
+## 移动端
 
 *Mobile section.*
 
@@ -301,7 +301,7 @@
 * [Interdimensional](https://github.com/VodkaBears/Interdimensional) - Spatial scrolling on mobile devices for your web pages.
 * [OhSnap!.js](https://github.com/justindomingue/ohSnap) - A simple jQuery/Zepto notification library designed to be used in mobile apps.
 
-[Back to top](#awesome-jquery)
+[返回顶部](#awesome-jquery)
 
 
 ## UI
@@ -314,20 +314,20 @@
 * [tabulous.js](https://github.com/aarondo/tabulous.js) - Tabs for todays web
 * [X-editable](https://github.com/vitalets/x-editable) - In-place editing with Twitter Bootstrap, jQuery UI or pure jQuery.
 
-[Back to top](#awesome-jquery)
+[返回顶部](#awesome-jquery)
 
 
-## Testing
+## 测试
 
 *Unit tests, testing section.*
 
 * [Qunit](http://qunitjs.com/) - A JavaScript Unit Testing framework, used by the jQuery, jQuery UI and jQuery mobile projects.
 * [Mockjax](https://github.com/jakerella/jquery-mockjax) - Provides a simple and extremely flexible interface for mocking or simulating ajax requests and responses.
 
-[Back to top](#awesome-jquery)
+[返回顶部](#awesome-jquery)
 
 
-## Server-side Integrations
+## 服务端相关
 
 *Best practices of integrating client-side jQuery with server-side technologies.*
 
@@ -343,10 +343,10 @@
     * [jquery-rails](https://github.com/rails/jquery-rails) - A gem to automate using jQuery with Rails.
     * [jquery-ui-rails](https://github.com/joliss/jquery-ui-rails) - jQuery UI for the Rails asset pipeline.
 
-[Back to top](#awesome-jquery)
+[返回顶部](#awesome-jquery)
 
 
-## Community
+## 社区
 
 *Ask and answer questions, share and get jQuery related stuff and get in touch with the community.*
 
@@ -361,10 +361,10 @@
 * [Meetup](http://jquery.meetup.com/) - Get involved locally.
 * [Twitter](https://twitter.com/jquery) - Official news and updates from the jQuery team on Twitter.
 
-[Back to top](#awesome-jquery)
+[返回顶部](#awesome-jquery)
 
 
-## Looking for more lists like this?
+## 姊妹篇
 
 * Awesome lists:
     * [awesome](https://github.com/sindresorhus/awesome) - Awesome lists
@@ -377,10 +377,10 @@
 * [awesome-javascript-books](https://github.com/heatroom/awesome-javascript-books) - Awesome JavaScript books
 * [js-must-watch](https://github.com/bolshchikov/js-must-watch) - List of must-watch videos devoted to JavaScript
 
-[Back to top](#awesome-jquery)
+[返回顶部](#awesome-jquery)
 
 
-## Contributing and License
+## 贡献和许可
 
 You are most welcome to [contribute](CONTRIBUTING.md) to this awesome jQuery list as well. Big thanks to all [contributors](https://github.com/peterkokot/awesome-jquery/graphs/contributors) who have helped to build this list.
 
@@ -388,4 +388,4 @@ You are most welcome to [contribute](CONTRIBUTING.md) to this awesome jQuery lis
 
 To the extent possible under law, [Peter Kokot](https://github.com/peterkokot) has waived all copyright and related or neighboring rights to this work.
 
-[Back to top](#awesome-jquery)
+[返回顶部](#awesome-jquery)
