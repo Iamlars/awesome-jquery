@@ -66,7 +66,7 @@
 * [Try jQuery](http://try.jquery.com/) - jQuery新手起航.
 * [Extending jQuery](http://james.padolsey.com/javascript/extending-jquerys-selector-capabilities/) - 扩展jQuery.
 
-[返回顶部](#awesome-jquery)
+[返回顶部](#jQuery封神榜)
 
 
 ### 书籍
@@ -87,7 +87,7 @@
 * [jQuery: Novice to Ninja: New Kicks And Tricks 中文名：《JQUERY从菜鸟到忍者》](http://www.sitepoint.com/store/jquery-novice-to-ninja-new-kicks-and-tricks/) - 快速成为jQuery老司机 , *作者 Earle Castledine & Craig Sharkie*.
 * [Learning jQuery - Fourth Edition 中文名：《jQuery基础教程（第4版）》](https://www.packtpub.com/web-development/learning-jquery-fourth-edition) - jQuery上道指南, *作者 Jonathan Chaffer and Karl Swedberg*.
 
-[返回顶部](#awesome-jquery)
+[返回顶部](#jQuery封神榜)
 
 
 ### 博客
@@ -99,7 +99,7 @@
 * [Sitepoint](http://www.sitepoint.com/javascript/jquery/) - 来自出版社的关于jQuery的文章.
 * [Smashing Magazine](https://www.smashingmagazine.com/tag/jquery/) - 关于jQuery的文章和教程.
 
-[返回顶部](#awesome-jquery)
+[返回顶部](#jQuery封神榜)
 
 
 ### 其他资源
@@ -111,7 +111,7 @@
 * [jQuery Source Viewer](http://james.padolsey.com/jquery/) - jQuery源代码查看工具.
 * [TodoMVC](https://github.com/tastejs/todomvc) -包括[jQuery](http://todomvc.com/examples/jquery/)在内的多个流行的JavaScript MV *框架构建的TodoMVC程序， 帮助你选择JavaScript框架
 
-[返回顶部](#awesome-jquery)
+[返回顶部](#jQuery封神榜)
 
 
 ## 插件
@@ -122,7 +122,7 @@
 * [jQuery Rain](http://www.jqueryrain.com/) - 最佳jQuery插件,教程、特效、示例,演示.
 * [jQuery Unheap](http://www.unheap.com/) - 一个整洁的jQuery插件库.
 
-[返回顶部](#awesome-jquery)
+[返回顶部](#jQuery封神榜)
 
 
 ## 动画
@@ -137,7 +137,7 @@
 * [Scrollify](https://github.com/lukehaas/Scrollify/) - 滚动插件（针对移动端已优化）.
 * [Waves](https://github.com/fians/Waves) - Material Design的点击水波效果 .
 
-[返回顶部](#awesome-jquery)
+[返回顶部](#jQuery封神榜)
 
 
 ### 富文本编辑器
@@ -150,7 +150,7 @@
 * [jQuery TE](http://jqueryte.com/) - 轻量级的HTML编辑器.
 * [TinyMCE](https://www.tinymce.com/) - 受欢迎的WYSIWYG编辑器.
 
-[返回顶部](#awesome-jquery)
+[返回顶部](#jQuery封神榜)
 
 
 ### 表单
@@ -168,7 +168,7 @@
 * [Select2](https://github.com/select2/select2) - 具有搜索、异步加载、无限滚动、添加标记功能的选择框
 
 
-[返回顶部](#awesome-jquery)
+[返回顶部](#jQuery封神榜)
 
 
 ### 图表
@@ -189,7 +189,7 @@
 * [Unite Gallery](https://github.com/vvvmax/unitegallery/) - 响应式的图片和视屏相册jQuery插件.
 * [Viewer](https://github.com/fengyuanchen/viewer) - 一个简单的jQuery图片查看插件.
 
-[返回顶部](#awesome-jquery)
+[返回顶部](#jQuery封神榜)
 
 
 ### 菜单
@@ -206,7 +206,7 @@
 * [Superfish](https://github.com/joeldbirch/superfish) - 加强型多级下拉菜单.
 * [Yamm](https://github.com/geedmo/yamm3) - 提供给Bootstrap3的大数据量菜单.
 
-[返回顶部](#awesome-jquery)
+[返回顶部](#jQuery封神榜)
 
 
 ### 弹窗
@@ -224,7 +224,7 @@
 * [tipso](https://github.com/object505/tipso) - 轻量级的响应式jQuery提示库.
 * [vex](https://github.com/hubspot/vex) - 高度易用和可配置的现代弹窗库.
 
-[返回顶部](#awesome-jquery)
+[返回顶部](#jQuery封神榜)
 
 
 ### 表格
@@ -243,7 +243,7 @@
 * [Stupid Table Sort](https://github.com/joequery/Stupid-Table-Plugin) - 傻瓜式表格排序插件.
 * [tableExport.jquery.plugin](https://github.com/hhurz/tableExport.jquery.plugin) - 导出表格为JSON,XML,CSV,TXT,SQL,Word,Excel,PNG或PDF格式.
 
-[返回顶部](#awesome-jquery)
+[返回顶部](#jQuery封神榜)
 
 
 ### 时间和日期
@@ -253,55 +253,55 @@
 * [jQuery Timer Plugin](https://github.com/walmik/timer.jquery) - 在任何DOM元素上启动/停止/恢复/删除定时器.
 * [Timeago](https://github.com/rmm5t/jquery-timeago) - 支持对时间戳进行自动更新 (类似"5 分钟前").
 
-[返回顶部](#awesome-jquery)
+[返回顶部](#jQuery封神榜)
 
 
 ### 翻译
 
 *国际化(i18n)和本地化(l10n)*
 
-* [i18n properties](https://github.com/jquery-i18n-properties/jquery-i18n-properties) - 轻量级的国际化插件，由[.properties](https://en.wikipedia.org/wiki/.properties)提供
+* [i18n properties](https://github.com/jquery-i18n-properties/jquery-i18n-properties) - 轻量级的国际化插件，由[.properties](https://en.wikipedia.org/wiki/.properties)提供支持
 * [jquery.i18n](https://github.com/wikimedia/jquery.i18n) - 基于jQuery的国际化库，让开发webapp更便捷
 * [jquery.localize.js](https://github.com/coderifous/jquery-localize) - 简单的静态网站本地化
 
-[返回顶部](#awesome-jquery)
+[返回顶部](#jQuery封神榜)
 
 
 ### 验证
 
-*Validation plugins.*
+*验证插件*
 
-* [FormValidation](https://github.com/formvalidation/formvalidation) - Form fields validator, designed for Bootstrap, Foundation, Pure, Semantic UI, UIKit and other frameworks.
-* [h5Validate](https://github.com/ericelliott/h5Validate) - An HTML5 form validation plugin for jQuery.
-* [jQuery Form Validator](https://github.com/victorjonsson/jQuery-Form-Validator/) - Validate user input while keeping your HTML markup clean from JavaScript code.
-* [jquery-validation](https://github.com/jzaefferer/jquery-validation/) - Drop-in validation for your existing forms, while making all kinds of customizations to fit your application really easy.
-* [jQuery.validationEngine](https://github.com/posabsolute/jQuery-Validation-Engine) - Validation of form fields in the browser.
+* [FormValidation](https://github.com/formvalidation/formvalidation) - 表单字段验证,可用于Bootstrap, Foundation, Pure, Semantic UI, UIKit等框架.
+* [h5Validate](https://github.com/ericelliott/h5Validate) - 基于HTML5和jQuery的验证插件.
+* [jQuery Form Validator](https://github.com/victorjonsson/jQuery-Form-Validator/) - 非侵入式的验证插件.
+* [jquery-validation](https://github.com/jzaefferer/jquery-validation/) - 在既有表格中嵌入可定制的验证信息.
+* [jQuery.validationEngine](https://github.com/posabsolute/jQuery-Validation-Engine) - 在浏览器中验证表单字段
 
-[返回顶部](#awesome-jquery)
+[返回顶部](#jQuery封神榜)
 
 
 ### 其他插件
 
 *Plugins that couldn't be sorted in above categories yet.*
 
-* [Boilerplate](https://github.com/jquery-boilerplate/jquery-boilerplate) - A jump-start for jQuery plugins development.
-* [Interlink](https://gist.github.com/Golpha/c5c7ae9b6ed11dc93ce6) - Event interlink plugin.
-* [Sisyphus](https://github.com/simsalabim/sisyphus) - Gmail-like client-side drafts and bit more.
-* [Slugify](https://github.com/pmcelhaney/jQuery-Slugify-Plugin) - Creates a URL slug as you type a page title (like Django slugify()).
-* [Readmore.js](https://github.com/jedfoster/Readmore.js) - A lightweight jQuery plugin for collapsing and expanding long blocks of text with "Read more" and "Close" links.
+* [Boilerplate](https://github.com/jquery-boilerplate/jquery-boilerplate) - 助力你的jQuery开发.
+* [Interlink](https://gist.github.com/Golpha/c5c7ae9b6ed11dc93ce6) - a链接事件处理.
+* [Sisyphus](https://github.com/simsalabim/sisyphus) - Gmail风格的草稿箱.
+* [Slugify](https://github.com/pmcelhaney/jQuery-Slugify-Plugin) - 根据输入创建链接(类似Django slugify()).
+* [Readmore.js](https://github.com/jedfoster/Readmore.js) - 一个轻量级的提供"阅读更多"和"关闭"功能的插件.
 
-[返回顶部](#awesome-jquery)
+[返回顶部](#jQuery封神榜)
 
 
 ## 移动端
 
-*Mobile section.*
+*移动端*
 
-* [jQuery mobile](http://jquerymobile.com/) - Lightweight framework for building mobile web apps with HTML5.
-* [Interdimensional](https://github.com/VodkaBears/Interdimensional) - Spatial scrolling on mobile devices for your web pages.
-* [OhSnap!.js](https://github.com/justindomingue/ohSnap) - A simple jQuery/Zepto notification library designed to be used in mobile apps.
+* [jQuery mobile](http://jquerymobile.com/) - 使用HTML5的webapp开发框架.
+* [Interdimensional](https://github.com/VodkaBears/Interdimensional) - 依靠陀螺仪滚动页面的jQuery插件.
+* [OhSnap!.js](https://github.com/justindomingue/ohSnap) - 用于移动端的jQuery/Zepto通知插件.
 
-[返回顶部](#awesome-jquery)
+[返回顶部](#jQuery封神榜)
 
 
 ## UI
@@ -314,7 +314,7 @@
 * [tabulous.js](https://github.com/aarondo/tabulous.js) - Tabs for todays web
 * [X-editable](https://github.com/vitalets/x-editable) - In-place editing with Twitter Bootstrap, jQuery UI or pure jQuery.
 
-[返回顶部](#awesome-jquery)
+[返回顶部](#jQuery封神榜)
 
 
 ## 测试
@@ -324,7 +324,7 @@
 * [Qunit](http://qunitjs.com/) - A JavaScript Unit Testing framework, used by the jQuery, jQuery UI and jQuery mobile projects.
 * [Mockjax](https://github.com/jakerella/jquery-mockjax) - Provides a simple and extremely flexible interface for mocking or simulating ajax requests and responses.
 
-[返回顶部](#awesome-jquery)
+[返回顶部](#jQuery封神榜)
 
 
 ## 服务端相关
@@ -343,7 +343,7 @@
     * [jquery-rails](https://github.com/rails/jquery-rails) - A gem to automate using jQuery with Rails.
     * [jquery-ui-rails](https://github.com/joliss/jquery-ui-rails) - jQuery UI for the Rails asset pipeline.
 
-[返回顶部](#awesome-jquery)
+[返回顶部](#jQuery封神榜)
 
 
 ## 社区
@@ -361,7 +361,7 @@
 * [Meetup](http://jquery.meetup.com/) - Get involved locally.
 * [Twitter](https://twitter.com/jquery) - Official news and updates from the jQuery team on Twitter.
 
-[返回顶部](#awesome-jquery)
+[返回顶部](#jQuery封神榜)
 
 
 ## 姊妹篇
@@ -377,7 +377,7 @@
 * [awesome-javascript-books](https://github.com/heatroom/awesome-javascript-books) - Awesome JavaScript books
 * [js-must-watch](https://github.com/bolshchikov/js-must-watch) - List of must-watch videos devoted to JavaScript
 
-[返回顶部](#awesome-jquery)
+[返回顶部](#jQuery封神榜)
 
 
 ## 贡献和许可
@@ -388,4 +388,4 @@ You are most welcome to [contribute](CONTRIBUTING.md) to this awesome jQuery lis
 
 To the extent possible under law, [Peter Kokot](https://github.com/peterkokot) has waived all copyright and related or neighboring rights to this work.
 
-[返回顶部](#awesome-jquery)
+[返回顶部](#jQuery封神榜)
