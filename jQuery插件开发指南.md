@@ -10,7 +10,7 @@
 * [1. 稳固：保护作用域内的 $ 免受污染](#tip-1)
 * [2. 发布：使用包管理器](#tip-2)
 * [3. 维护：维护你的插件，并坚持下去](#tip-3)
-* [4. 设置：提供默认的设置](#tip-4)
+* [4. 配置：提供默认的配置](#tip-4)
 * [5. 文档](#tip-5)
 * [6. 测试](#tip-6)
 * [7. 协作：和其他插件协同工作](#tip-7)
@@ -43,9 +43,9 @@ JavaScript拥有 **一大票** 的 包管理器 (npm, Bower, component, spm, jam
 然后开源会让插件中一些bug提前暴露出来，
 因此持之以恒的接受来自GitHub的PR，或是修复bug，或是针对最新版本jQuery添加支持，都是必要的。
 
-## 4. 设置：提供默认的设置<a name="tip-5"></a>
+## 4. 配置：提供默认的配置<a name="tip-5"></a>
 
-Plugins in most cases have some configuration. If user don't set these plugin should have set default values for easier and faster plugin implementation.
+大多数的插件都需要一些配置. 在用户没有进行配置时，插件应该自动使用默认值.
 
 ```javascript
 $("#select").myPlugin({mode: 'brush', lineWidth: 3, color: '#c3c3c3'});
@@ -59,25 +59,26 @@ var defaultSettings = {
 };
 ```
 
-## 5. Documentation<a name="tip-6"></a>
+## 5. 文档<a name="tip-6"></a>
 
-Always document your code by adding meaningful concise comments to the top of the plugin file and in cases of complex plugins creating separate `README` file or `doc` folder with deep explanations and demostration of the plugin. This helps people understand and use your plugin better.
-
+通常在编译代码时，头部会添加一些有意义的东西（文档），
+是为了更好的区分开readme文件和doc文件，
+有利于人们更好的读懂你的文件和代码
 
 ## 6. Testing<a name="tip-7"></a>
 
-Test your plugin in multiple browser.
+在多个浏览器中测试你的插件
 
 
-## 7. Enable chaining
+## 7. 协作：和其他插件协同工作
 
-Unless your plugin returns a value, the last line of your plugin function should be:
+当你的插件不需要返回值时，请确保末尾返回自身
 
 ```javascript
 return this;
 ```
 
-this enables chaining of method calls:
+这样可以让你的插件、我的插件、他们的插件以链式调用的方式串起来(译者脑补：`串一株幸运草，串一个同心圆..`)
 
 ```javascript
 $("div#myid").yourPlugin().anotherPlugin().yetAnotherPlugin();
@@ -85,21 +86,21 @@ $("div#myid").yourPlugin().anotherPlugin().yetAnotherPlugin();
 
 ## 8. Easy Usage
 
-Plugin should be easy to use and should work out of the box withouth the need to browse the documentation, set options or editing plugin code.
+在不阅读文档、进行配置或者改动插件代码的情形下，插件也应该是能立即使用的。
 
-If possible make sure that plugin can initialize itself:
+如果可能的话，确保插件可以自行初始化:
 
 ```html
 <div class="mySliderPlugin"></div>
 ```
 
-without the need to add or edit any JavaScript:
+不需要增加或者改动代码:
 
 ```javascript
 $('.mySliderPlugin').mySliderPlugin();
 ```
 
-Plugin can initialize itself:
+插件能够自主完成初始化:
 
 ```javascript
 $(function() {
