@@ -196,73 +196,73 @@
 
 *美化和增强型的菜单，菜单动画*
 
-* [jQuery contextMenu](https://github.com/swisnl/jQuery-contextMenu) - Management facility for context menus.
-* [jPanelMenu](https://github.com/acolangelo/jPanelMenu) - Creates a paneled-style menu (like the type seen in the mobile versions of Facebook, Google and native iPhone applications).
-* [jQuery-menu-aim](https://github.com/kamens/jQuery-menu-aim) - Fires events when user's cursor aims at particular dropdown menu items.
-* [mmenu](https://github.com/FrDH/jQuery.mmenu) - App look-alike on- and off-canvas menus with sliding submenus.
-* [Multi-level push menu](https://github.com/adgsm/multi-level-push-menu) - Allows endless nesting of navigation elements.
-* [Slidebars](https://github.com/adchsm/Slidebars) - jQuery framework for off-canvas menus and sidebars.
-* [stickUp](https://github.com/LiranCohen/stickUp) - Sticks an element to the top of the browser window while scrolling past it, always keeping it in view.
-* [Superfish](https://github.com/joeldbirch/superfish) - Adds usability enhancements to existing multi-level drop-down menus.
-* [Yamm](https://github.com/geedmo/yamm3) - Yet another megamenu for Bootstrap 3.
+* [jQuery contextMenu](https://github.com/swisnl/jQuery-contextMenu) - 便捷的大数据量快捷菜单.
+* [jPanelMenu](https://github.com/acolangelo/jPanelMenu) - 侧滑菜单 (类似Facebook,Google和iPhone应用).
+* [jQuery-menu-aim](https://github.com/kamens/jQuery-menu-aim) - 鼠标监听下拉菜单事件(译者注：类似亚马逊官网).
+* [mmenu](https://github.com/FrDH/jQuery.mmenu) - 类似原生应用的滑动菜单(译者注：类似iPhone 设置).
+* [Multi-level push menu](https://github.com/adgsm/multi-level-push-menu) - 允许无限嵌套的导航栏.
+* [Slidebars](https://github.com/adchsm/Slidebars) - 好用的侧滑菜单.
+* [stickUp](https://github.com/LiranCohen/stickUp) - 把一个元素钉在页面顶部.
+* [Superfish](https://github.com/joeldbirch/superfish) - 加强型多级下拉菜单.
+* [Yamm](https://github.com/geedmo/yamm3) - 提供给Bootstrap3的大数据量菜单.
 
 [返回顶部](#awesome-jquery)
 
 
 ### 弹窗
 
-*modals,tooltips,popup*
+*弹窗(modals),提示(tooltips),popup*
 
-* [animatedModal.js](https://github.com/joaopereirawd/animatedModal.js) - Plugin for creating fullscreen modals with CSS3 transitions. You can use the transitions from `animate.css` or create your own.
-* [Avgrund](https://github.com/voronianski/jquery.avgrund.js) - Plugin for your modal boxes and popups with new concept of showing depth between popup and page.
-* [Bootstrap Modal](https://github.com/jschr/bootstrap-modal) - Extends the default Bootstrap Modal class. Responsive, stackable and ajax.
-* [jBox](https://github.com/StephanWagner/jBox) - Powerful and flexible plugin which takes care of all modal windows, tooltips and notices.
-* [jQuery Modal](https://github.com/kylefox/jquery-modal) - Simple and lightweight method of displaying modal windows.
-* [jQuery Popup Overlay](https://github.com/vast-engineering/jquery-popup-overlay) - Responsive and accessible modal windows and tooltips.
-* [Magnific Popup](https://github.com/dimsemenov/Magnific-Popup) - Fast, light and responsive lightbox plugin.
-* [SweetAlert](https://github.com/t4t5/sweetalert) - A beautiful replacement for JavaScript's alert.
-* [tipso](https://github.com/object505/tipso) - A Lightweight Responsive jQuery Tooltip Plugin.
-* [vex](https://github.com/hubspot/vex) - A modern dialog library which is highly configurable and easy to style.
+* [animatedModal.js](https://github.com/joaopereirawd/animatedModal.js) - 基于CSS3 transition技术的全屏弹窗，可以使用`animate.css`或者自建动画.
+* [Avgrund](https://github.com/voronianski/jquery.avgrund.js) - 弹窗时和页面进行动画交互.
+* [Bootstrap Modal](https://github.com/jschr/bootstrap-modal) - 对Bootstrap弹窗进行的扩展.
+* [jBox](https://github.com/StephanWagner/jBox) - 强大且灵活的弹窗、提示和通知插件
+* [jQuery Modal](https://github.com/kylefox/jquery-modal) - 简单、轻量级的弹窗.
+* [jQuery Popup Overlay](https://github.com/vast-engineering/jquery-popup-overlay) - 好用的响应式弹窗及提示.
+* [Magnific Popup](https://github.com/dimsemenov/Magnific-Popup) - 快速、小巧、响应式的焦点图插件.
+* [SweetAlert](https://github.com/t4t5/sweetalert) - 好看的alert替代库.
+* [tipso](https://github.com/object505/tipso) - 轻量级的响应式jQuery提示库.
+* [vex](https://github.com/hubspot/vex) - 高度易用和可配置的现代弹窗库.
 
 [返回顶部](#awesome-jquery)
 
 
 ### 表格
 
-*Grid plugins and plugins for creating and showcasing data in form of tables.*
+*表格数据展示和交互*
 
-* [DataTables](https://www.datatables.net/) - Advanced interaction controls for HTML tables.
-* [Filter Table](https://github.com/sunnywalker/jQuery.FilterTable) - Live searching/filtering for HTML tables.
-* [FooTable](https://github.com/fooplugins/FooTable/) - Make HTML tables responsive.
-* [Isotope](https://github.com/metafizzy/isotope) - Filter & sort magical layouts.
-* [HighchartTable](https://github.com/highchartTable/jquery-highchartTable-plugin) - Simple way to convert HTML data tables to Highcharts graphs.
-* [jqGrid](https://github.com/tonytomov/jqGrid) - Grid plugin.
-* [jQuery treetable](https://github.com/ludo/jquery-treetable) - Show a tree structure in a table.
-* [jsGrid](https://github.com/tabalinas/jsgrid) - Lightweight grid plugin.
-* [Stackable.js](https://github.com/johnpolacek/stacktable.js/) - Stacking tables on small screens.
-* [Stupid Table Sort](https://github.com/joequery/Stupid-Table-Plugin) - A stupidly small and simple jQuery table sorter plugin.
-* [tableExport.jquery.plugin](https://github.com/hhurz/tableExport.jquery.plugin) - Export HTML table to JSON, XML, CSV, TXT, SQL, Word, Excel, PNG or PDF.
+* [DataTables](https://www.datatables.net/) - 先进的交互式表格.
+* [Filter Table](https://github.com/sunnywalker/jQuery.FilterTable) - 可即时搜索和筛选的表格.
+* [FooTable](https://github.com/fooplugins/FooTable/) - 生成响应式的表格.
+* [Isotope](https://github.com/metafizzy/isotope) - 表格筛选、排序.
+* [HighchartTable](https://github.com/highchartTable/jquery-highchartTable-plugin) - 轻松将表格转化为Highcharts图表.
+* [jqGrid](https://github.com/tonytomov/jqGrid) - 网格插件.
+* [jQuery treetable](https://github.com/ludo/jquery-treetable) - 在表格中使用树状结构.
+* [jsGrid](https://github.com/tabalinas/jsgrid) - 轻量级网格插件.
+* [Stackable.js](https://github.com/johnpolacek/stacktable.js/) - 在小屏幕设备上改变展示形式.
+* [Stupid Table Sort](https://github.com/joequery/Stupid-Table-Plugin) - 傻瓜式表格排序插件.
+* [tableExport.jquery.plugin](https://github.com/hhurz/tableExport.jquery.plugin) - 导出表格为JSON,XML,CSV,TXT,SQL,Word,Excel,PNG或PDF格式.
 
 [返回顶部](#awesome-jquery)
 
 
 ### 时间和日期
 
-*Plugins for handling, manipulating or formating time and date.*
+*时间和日期处理插件*
 
-* [jQuery Timer Plugin](https://github.com/walmik/timer.jquery) - Start/Stop/Resume/Remove pretty timer inside any HTML element.
-* [Timeago](https://github.com/rmm5t/jquery-timeago) - Easy support of automatic updating fuzzy timestamps (e.g. "4 minutes ago").
+* [jQuery Timer Plugin](https://github.com/walmik/timer.jquery) - 在任何DOM元素上启动/停止/恢复/删除定时器.
+* [Timeago](https://github.com/rmm5t/jquery-timeago) - 支持对时间戳进行自动更新 (类似"5 分钟前").
 
 [返回顶部](#awesome-jquery)
 
 
-### Translations
+### 翻译
 
-*Internationalization (i18n) and localization (l10n).*
+*国际化(i18n)和本地化(l10n)*
 
-* [i18n properties](https://github.com/jquery-i18n-properties/jquery-i18n-properties) - Lightweight plugin for providing internationalization to JavaScript from [.properties](https://en.wikipedia.org/wiki/.properties) files
-* [jquery.i18n](https://github.com/wikimedia/jquery.i18n) - jQuery based Javascript internationalization library for easy internationalization of web application
-* [jquery.localize.js](https://github.com/coderifous/jquery-localize) - Easy internationalization of your static web site
+* [i18n properties](https://github.com/jquery-i18n-properties/jquery-i18n-properties) - 轻量级的国际化插件，由[.properties](https://en.wikipedia.org/wiki/.properties)提供
+* [jquery.i18n](https://github.com/wikimedia/jquery.i18n) - 基于jQuery的国际化库，让开发webapp更便捷
+* [jquery.localize.js](https://github.com/coderifous/jquery-localize) - 简单的静态网站本地化
 
 [返回顶部](#awesome-jquery)
 
