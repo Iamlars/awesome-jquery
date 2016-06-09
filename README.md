@@ -79,7 +79,6 @@
 * [JavaScript plus a dash of JQuery](http://nicholasjohnson.com/javascript-book/) - 一本清晰的jQuery代码编写入门书, *作者 Nicholas Johnson*.
 * [jQuery Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/jquery) (PDF, .mobi) *(需要注册账号)*.
 * [jQuery fundamentals](https://github.com/bocoup/jqfundamentals.com) - jQuery优雅之道.
-* [10 Free jQuery E-Books](http://codecondo.com/10-free-jquery-e-books/?utm_source=tuicool&utm_medium=referral) - 10本免费jQuery电子书(译者私货).
 
 
 #### 收费书籍
@@ -162,6 +161,7 @@
 * [File Upload](https://github.com/blueimp/jQuery-File-Upload) - 支持多选、拖放、进度条、验证、图片预览及视频、音频的文件上传组件。
 * [Ideal Forms](https://github.com/elclanrs/jq-idealforms) - 创建和验证响应式的HTML5表单框架.
 * [jQuery Form Plugin](https://github.com/malsup/form/) - 简单的让AJAX提交HTML表单.
+* [jquery-minicolors](https://github.com/claviska/jquery-minicolors) - 一个轻巧的取色插件.
 * [Justified Gallery](https://github.com/miromannino/Justified-Gallery) - 你可以创建一个基于网格的相册.
 * [Labelauty](https://github.com/fntneves/jquery-labelauty) - 轻量级的美化单选和复选框插件.
 * [Payform](https://github.com/jondavidjohn/payform) - 验证和格式化信用卡号码的表单插件.
@@ -231,8 +231,10 @@
 ### 表格
 
 *表格数据展示和交互*
-
+* [Bootgrid](https://github.com/rstaib/jquery-bootgrid) - 基于bootstrap的响应式表格插件.
+* [Bootstrap table](http://bootstrap-table.wenzhixin.net.cn/) - 基于bootstrap的功能强大的表格插件.
 * [DataTables](https://www.datatables.net/) - 先进的交互式表格.
+* [FancyGrid](http://fancygrid.com) - 整合了图表和服务端驱动(rails)的JavaScript表格.
 * [Filter Table](https://github.com/sunnywalker/jQuery.FilterTable) - 可即时搜索和筛选的表格.
 * [FooTable](https://github.com/fooplugins/FooTable/) - 生成响应式的表格.
 * [Isotope](https://github.com/metafizzy/isotope) - 表格筛选、排序.
@@ -359,15 +361,13 @@
 * [Reddit](https://www.reddit.com/r/jquery) - 讨论和分享新闻、文章、插件、教程，覆盖了jQuery核心, jQuery UI, jQuery Mobile和其他关联项目.
 * [Google+](https://plus.google.com/communities/106546344682622800231) - Google+的jQuery小组.
 * [Quora](https://www.quora.com/jQuery) - Quora的jQuery话题.
-* [Meetup](http://jquery.meetup.com/) - jQuery本地交友会.
+* [Meetup](http://www.meetup.com/topics/jquery/) - jQuery本地交友会.
 * [Twitter](https://twitter.com/jquery) - Twitter上的jQuery官方账号.
 
 [返回顶部](#awesome-jquery)
 
 
 ## 姊妹篇
-
-*这让我怎么翻...将就看吧*
 
 * Awesome lists:
     * [awesome](https://github.com/sindresorhus/awesome) - Awesome lists
